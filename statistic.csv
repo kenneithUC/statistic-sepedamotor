@@ -1,0 +1,209 @@
+Name,Brand,Year,EngineCC,Type
+R1,Yamaha,2022,1000,Sport
+MT-09,Yamaha,2022,847,Standard
+YZF-R3,Yamaha,2023,321,Sport
+FZ-07,Yamaha,2021,689,Naked
+VMAX,Yamaha,2022,1679,Cruiser
+XSR700,Yamaha,2023,689,Standard
+WR250R,Yamaha,2021,250,Off-road
+Tracer 900 GT,Yamaha,2022,847,Touring
+YZ250F,Yamaha,2023,250,Motocross
+Niken GT,Yamaha,2022,847,Sport Touring
+CBR1000RR,Honda,2022,1000,Sport
+CB500F,Honda,2023,500,Standard
+CBR600RR,Honda,2021,600,Sport
+CB650R,Honda,2023,649,Naked
+Goldwing,Honda,2022,1833,Touring
+CRF250L,Honda,2023,250,Off-road
+Rebel 500,Honda,2021,471,Cruiser
+CBR650R,Honda,2022,649,Sport
+Africa Twin,Honda,2023,1084,Adventure
+Super Cub,Honda,2022,125,Standard
+GSX-R750,Suzuki,2021,750,Sport
+SV650,Suzuki,2022,645,Naked
+V-Strom 650,Suzuki,2023,645,Adventure
+Hayabusa,Suzuki,2022,1340,Sport Touring
+Boulevard M109R,Suzuki,2021,1783,Cruiser
+RM-Z450,Suzuki,2023,449,Motocross
+DR-Z400S,Suzuki,2021,398,Dual Sport
+GSX-S1000,Suzuki,2022,999,Naked
+GSX250R,Suzuki,2023,248,Sport
+Burgman 400,Suzuki,2022,400,Scooter
+Ninja 400,Kawasaki,2023,400,Sport
+Z650,Kawasaki,2022,649,Naked
+Versys 1000,Kawasaki,2021,1043,Adventure
+Z900RS,Kawasaki,2023,948,Standard
+Ninja ZX-6R,Kawasaki,2022,636,Sport
+KLX250,Kawasaki,2021,249,Dual Sport
+Vulcan S,Kawasaki,2023,649,Cruiser
+Ninja H2,Kawasaki,2022,998,Superbike
+W800,Kawasaki,2021,773,Standard
+KX450,Kawasaki,2023,449,Motocross
+Panigale V4,Ducati,2022,1103,Superbike
+Monster 821,Ducati,2023,821,Naked
+Multistrada 950,Ducati,2021,937,Adventure
+Diavel 1260,Ducati,2022,1262,Cruiser
+Scrambler Sixty2,Ducati,2023,399,Scrambler
+Hypermotard 950,Ducati,2021,937,Hyper Naked
+Streetfighter V4,Ducati,2022,1103,Streetfighter
+SuperSport 950,Ducati,2023,937,Sport Touring
+Ducati 848,Ducati,2022,849,Sport
+XDiavel,Ducati,2021,1262,Cruiser
+RSV4 1100 Factory,Aprilia,2022,1078,Superbike
+Tuono V4 1100,Aprilia,2023,1078,Naked
+Shiver 900,Aprilia,2021,896,Naked
+Dorsoduro 900,Aprilia,2022,896,Supermoto
+RS 660,Aprilia,2023,659,Sport
+Tuareg 660,Aprilia,2022,660,Adventure
+SR 125,Aprilia,2021,124,Scooter
+RS4 50,Aprilia,2023,50,Sport
+Caponord 1200,Aprilia,2022,1197,Touring
+Mana 850,Aprilia,2021,839,Sport Touring
+Leoncino 500,Benelli,2021,500,Standard
+TRK 502,Benelli,2022,500,Adventure
+Imperiale 400,Benelli,2023,374,Cruiser
+502C,Benelli,2022,500,Cruiser
+TNT 600i,Benelli,2021,600,Naked
+Leoncino 800,Benelli,2023,754,Standard
+502S,Benelli,2022,500,Sport Touring
+Tornado 302,Benelli,2021,300,Sport
+Leoncino 250,Benelli,2023,250,Standard
+TRK 251,Benelli,2022,250,Adventure
+Sportster 883,Harley,2022,883,Cruiser
+Street Glide,Harley,2023,1746,Touring
+Softail Fat Boy,Harley,2021,1868,Cruiser
+Iron 1200,Harley,2022,1202,Cruiser
+Electra Glide,Harley,2023,1868,Touring
+Breakout,Harley,2021,1868,Cruiser
+Road King,Harley,2022,1868,Touring
+Low Rider S,Harley,2023,1868,Cruiser
+Pan America 1250,Harley,2022,1250,Adventure
+LiveWire,Harley,2021,Rechargeable Electric,Cruiser
+Duke 390,KTM,2023,373,Naked
+RC 390,KTM,2022,373,Sport
+Adventure 790,KTM,2021,799,Adventure
+Super Duke R,KTM,2022,1301,Naked
+690 Enduro R,KTM,2023,690,Off-road
+125 Duke,KTM,2021,125,Naked
+390 Adventure,KTM,2022,373,Adventure
+690 SMC R,KTM,2023,690,Supermoto
+790 Duke,KTM,2022,799,Naked
+1290 Super Adventure R,KTM,2021,1301,Adventure
+Interceptor 650,Royal Enfield,2022,648,Cruiser
+Himalayan,Royal Enfield,2023,411,Adventure
+Classic 500,Royal Enfield,2021,499,Cruiser
+Continental GT 650,Royal Enfield,2022,648,Cafe Racer
+Meteor 350,Royal Enfield,2023,349,Cruiser
+Bullet 350,Royal Enfield,2021,346,Cruiser
+Himalayan 650,Royal Enfield,2022,648,Adventure
+Thunderbird X,Royal Enfield,2023,346,Cruiser
+Classic 350,Royal Enfield,2022,346,Cruiser
+Interceptor 350,Royal Enfield,2021,346,Cruiser
+
+ add another column quantity 1
+ChatGPT
+Certainly! Here's the updated list with an additional "Quantity" column set to 1 for each entry:
+
+plaintext
+Copy code
+Name,Brand,Year,EngineCC,Type,Quantity
+R1,Yamaha,2022,1000,Sport,1
+MT-09,Yamaha,2022,847,Standard,1
+YZF-R3,Yamaha,2023,321,Sport,1
+FZ-07,Yamaha,2021,689,Naked,1
+VMAX,Yamaha,2022,1679,Cruiser,1
+XSR700,Yamaha,2023,689,Standard,1
+WR250R,Yamaha,2021,250,Off-road,1
+Tracer 900 GT,Yamaha,2022,847,Touring,1
+YZ250F,Yamaha,2023,250,Motocross,1
+Niken GT,Yamaha,2022,847,Sport Touring,1
+CBR1000RR,Honda,2022,1000,Sport,1
+CB500F,Honda,2023,500,Standard,1
+CBR600RR,Honda,2021,600,Sport,1
+CB650R,Honda,2023,649,Naked,1
+Goldwing,Honda,2022,1833,Touring,1
+CRF250L,Honda,2023,250,Off-road,1
+Rebel 500,Honda,2021,471,Cruiser,1
+CBR650R,Honda,2022,649,Sport,1
+Africa Twin,Honda,2023,1084,Adventure,1
+Super Cub,Honda,2022,125,Standard,1
+GSX-R750,Suzuki,2021,750,Sport,1
+SV650,Suzuki,2022,645,Naked,1
+V-Strom 650,Suzuki,2023,645,Adventure,1
+Hayabusa,Suzuki,2022,1340,Sport Touring,1
+Boulevard M109R,Suzuki,2021,1783,Cruiser,1
+RM-Z450,Suzuki,2023,449,Motocross,1
+DR-Z400S,Suzuki,2021,398,Dual Sport,1
+GSX-S1000,Suzuki,2022,999,Naked,1
+GSX250R,Suzuki,2023,248,Sport,1
+Burgman 400,Suzuki,2022,400,Scooter,1
+Ninja 400,Kawasaki,2023,400,Sport,1
+Z650,Kawasaki,2022,649,Naked,1
+Versys 1000,Kawasaki,2021,1043,Adventure,1
+Z900RS,Kawasaki,2023,948,Standard,1
+Ninja ZX-6R,Kawasaki,2022,636,Sport,1
+KLX250,Kawasaki,2021,249,Dual Sport,1
+Vulcan S,Kawasaki,2023,649,Cruiser,1
+Ninja H2,Kawasaki,2022,998,Superbike,1
+W800,Kawasaki,2021,773,Standard,1
+KX450,Kawasaki,2023,449,Motocross,1
+Panigale V4,Ducati,2022,1103,Superbike,1
+Monster 821,Ducati,2023,821,Naked,1
+Multistrada 950,Ducati,2021,937,Adventure,1
+Diavel 1260,Ducati,2022,1262,Cruiser,1
+Scrambler Sixty2,Ducati,2023,399,Scrambler,1
+Hypermotard 950,Ducati,2021,937,Hyper Naked,1
+Streetfighter V4,Ducati,2022,1103,Streetfighter,1
+SuperSport 950,Ducati,2023,937,Sport Touring,1
+Ducati 848,Ducati,2022,849,Sport,1
+XDiavel,Ducati,2021,1262,Cruiser,1
+RSV4 1100 Factory,Aprilia,2022,1078,Superbike,1
+Tuono V4 1100,Aprilia,2023,1078,Naked,1
+Shiver 900,Aprilia,2021,896,Naked,1
+Dorsoduro 900,Aprilia,2022,896,Supermoto,1
+RS 660,Aprilia,2023,659,Sport,1
+Tuareg 660,Aprilia,2022,660,Adventure,1
+SR 125,Aprilia,2021,124,Scooter,1
+RS4 50,Aprilia,2023,50,Sport,1
+Caponord 1200,Aprilia,2022,1197,Touring,1
+Mana 850,Aprilia,2021,839,Sport Touring,1
+Leoncino 500,Benelli,2021,500,Standard,1
+TRK 502,Benelli,2022,500,Adventure,1
+Imperiale 400,Benelli,2023,374,Cruiser,1
+502C,Benelli,2022,500,Cruiser,1
+TNT 600i,Benelli,2021,600,Naked,1
+Leoncino 800,Benelli,2023,754,Standard,1
+502S,Benelli,2022,500,Sport Touring,1
+Tornado 302,Benelli,2021,300,Sport,1
+Leoncino 250,Benelli,2023,250,Standard,1
+TRK 251,Benelli,2022,250,Adventure,1
+Sportster 883,Harley,2022,883,Cruiser,1
+Street Glide,Harley,2023,1746,Touring,1
+Softail Fat Boy,Harley,2021,1868,Cruiser,1
+Iron 1200,Harley,2022,1202,Cruiser,1
+Electra Glide,Harley,2023,1868,Touring,1
+Breakout,Harley,2021,1868,Cruiser,1
+Road King,Harley,2022,1868,Touring,1
+Low Rider S,Harley,2023,1868,Cruiser,1
+Pan America 1250,Harley,2022,1250,Adventure,1
+LiveWire,Harley,2021,Rechargeable Electric,Cruiser,1
+Duke 390,KTM,2023,373,Naked,1
+RC 390,KTM,2022,373,Sport,1
+Adventure 790,KTM,2021,799,Adventure,1
+Super Duke R,KTM,2022,1301,Naked,1
+690 Enduro R,KTM,2023,690,Off-road,1
+125 Duke,KTM,2021,125,Naked,1
+390 Adventure,KTM,2022,373,Adventure,1
+690 SMC R,KTM,2023,690,Supermoto,1
+790 Duke,KTM,2022,799,Naked,1
+1290 Super Adventure R,KTM,2021,1301,Adventure,1
+Interceptor 650,Royal Enfield,2022,648,Cruiser,1
+Himalayan,Royal Enfield,2023,411,Adventure,1
+Classic 500,Royal Enfield,2021,499,Cruiser,1
+Continental GT 650,Royal Enfield,2022,648,Cafe Racer,1
+Meteor 350,Royal Enfield,2023,349,Cruiser,1
+Bullet 350,Royal Enfield,2021,346,Cruiser,1
+Himalayan 650,Royal Enfield,2022,648,Adventure,1
+Thunderbird X,Royal Enfield,2023,346,Cruiser,1
+Classic 350,Royal Enfield,2022,346,Cruiser,1
+Interceptor 350,Royal Enfield,2021,346,Cruiser,1
