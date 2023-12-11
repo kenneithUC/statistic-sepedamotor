@@ -1,0 +1,101 @@
+Name,Brand,Origin,Year,EngineCC,Type,Quantity,Weight (kg),MaxSpeed (km/h),Cost (USD),Acceleration (m/s^2)
+R1,Yamaha,Japan,2022,1000,Sport,1,200,299,17500,9.6
+MT-09,Yamaha,Japan,2022,847,Standard,1,190,225,10000,9.3
+YZF-R3,Yamaha,Japan,2023,321,Sport,1,167,180,5500,8.7
+FZ-07,Yamaha,Japan,2021,689,Naked,1,180,212,7500,6.0
+VMAX,Yamaha,Japan,2022,1679,Cruiser,1,365,240,18000,2.7
+XSR700,Yamaha,Japan,2023,689,Standard,1,185,217,8500,6.5
+WR250R,Yamaha,Japan,2021,250,Off-road,1,145,143,6500,4.7
+Tracer 900 GT,Yamaha,Japan,2022,847,Touring,1,215,217,12500,8.7
+YZ250F,Yamaha,Japan,2023,250,Motocross,1,105,129,8000,10.0
+Niken GT,Yamaha,Japan,2022,847,Sport Touring,1,230,225,14500,9.3
+CBR1000RR,Honda,Japan,2022,1000,Sport,1,205,299,16000,9.7
+CB500F,Honda,Japan,2023,500,Standard,1,180,169,7000,7.1
+CBR600RR,Honda,Japan,2021,600,Sport,1,195,261,12000,9.0
+CB650R,Honda,Japan,2023,649,Naked,1,190,225,9000,7.5
+Goldwing,Honda,Japan,2022,1833,Touring,1,385,201,23000,2.8
+CRF250L,Honda,Japan,2023,250,Off-road,1,157,129,5500,4.5
+Rebel 500,Honda,Japan,2021,471,Cruiser,1,190,169,7000,6.8
+CBR650R,Honda,Japan,2022,649,Sport,1,202,233,9500,8.2
+Africa Twin,Honda,Japan,2023,1084,Adventure,1,238,190,15000,8.4
+Super Cub,Honda,Japan,2022,125,Standard,1,110,105,3500,3.5
+GSX-R750,Suzuki,Japan,2021,750,Sport,1,190,241,12000,9.1
+SV650,Suzuki,Japan,2022,645,Naked,1,197,201,7500,7.3
+V-Strom 650,Suzuki,Japan,2023,645,Adventure,1,213,199,9000,7.6
+Hayabusa,Suzuki,Japan,2022,1340,Sport Touring,1,266,299,18000,8.2
+Boulevard M109R,Suzuki,Japan,2021,1783,Cruiser,1,347,201,14500,3.9
+RM-Z450,Suzuki,Japan,2023,449,Motocross,1,112,140,9000,14.0
+DR-Z400S,Suzuki,Japan,2021,398,Dual Sport,1,144,145,7500,7.4
+GSX-S1000,Suzuki,Japan,2022,999,Naked,1,215,241,11000,8.3
+GSX250R,Suzuki,Japan,2023,248,Sport,1,178,153,5000,8.0
+Burgman 400,Suzuki,Japan,2022,400,Scooter,1,210,169,8000,3.7
+Ninja 400,Kawasaki,Japan,2023,400,Sport,1,167,169,6000,6.2
+Z650,Kawasaki,Japan,2022,649,Naked,1,190,209,8000,7.5
+Versys 1000,Kawasaki,Japan,2021,1043,Adventure,1,236,241,13000,6.2
+Z900RS,Kawasaki,Japan,2023,948,Standard,1,215,217,11000,6.8
+Ninja ZX-6R,Kawasaki,Japan,2022,636,Sport,1,196,257,9500,8.5
+KLX250,Kawasaki,Japan,2021,249,Dual Sport,1,139,137,5500,4.5
+Vulcan S,Kawasaki,Japan,2023,649,Cruiser,1,225,177,8000,5.3
+Ninja H2,Kawasaki,Japan,2022,998,Superbike,1,238,299,30000,10.0
+W800,Kawasaki,Japan,2021,773,Standard,1,221,177,9000,5.6
+KX450,Kawasaki,Japan,2023,449,Motocross,1,112,137,9000,12.0
+Panigale V4,Ducati,Italy,2022,1103,Superbike,1,195,322,25000,10.0
+Monster 821,Ducati,Italy,2023,821,Naked,1,200,225,13000,8.0
+Multistrada 950,Ducati,Italy,2021,937,Adventure,1,226,201,15000,6.5
+Diavel 1260,Ducati,Italy,2022,1262,Cruiser,1,244,257,18000,7.5
+Scrambler Sixty2,Ducati,Italy,2023,399,Scrambler,1,183,177,9000,6.0
+Hypermotard 950,Ducati,Italy,2021,937,Hyper Naked,1,198,217,14000,8.0
+Streetfighter V4,Ducati,Italy,2022,1103,Streetfighter,1,202,289,20000,8.5
+SuperSport 950,Ducati,Italy,2023,937,Sport Touring,1,210,250,15000,7.0
+Ducati 848,Ducati,Italy,2022,849,Sport,1,183,265,12000,8.5
+XDiavel,Ducati,Italy,2021,1262,Cruiser,1,225,241,18000,7.5
+RSV4 1100 Factory,Aprilia,Italy,2022,1078,Superbike,1,199,299,26000,10.0
+Tuono V4 1100,Aprilia,Italy,2023,1078,Naked,1,203,278,17000,8.5
+Shiver 900,Aprilia,Italy,2021,896,Naked,1,189,209,11000,7.0
+Dorsoduro 900,Aprilia,Italy,2022,896,Supermoto,1,207,225,12000,7.2
+RS 660,Aprilia,Italy,2023,659,Sport,1,176,233,14000,8.0
+Tuareg 660,Aprilia,Italy,2022,660,Adventure,1,215,209,15000,7.5
+SR 125,Aprilia,Italy,2021,124,Scooter,1,115,113,4000,5.0
+RS4 50,Aprilia,Italy,2023,50,Sport,1,95,97,3000,3.5
+Caponord 1200,Aprilia,Italy,2022,1197,Touring,1,238,209,16000,6.5
+Mana 850,Aprilia,Italy,2021,839,Sport Touring,1,212,201,8000,6.0
+Leoncino 500,Benelli,Italy,2021,500,Standard,1,202,233,7000,6.8
+TRK 502,Benelli,Italy,2022,500,Adventure,1,215,217,8000,6.2
+Imperiale 400,Benelli,Italy,2023,374,Cruiser,1,185,193,6000,5.0
+502C,Benelli,Italy,2022,500,Cruiser,1,198,209,7000,5.8
+TNT 600i,Benelli,Italy,2021,600,Naked,1,206,250,8000,6.5
+Leoncino 800,Benelli,Italy,2023,754,Standard,1,215,225,10000,6.8
+502S,Benelli,Italy,2022,500,Sport Touring,1,225,209,8500,6.0
+Tornado 302,Benelli,Italy,2021,300,Sport,1,168,250,6000,6.5
+Leoncino 250,Benelli,Italy,2023,250,Standard,1,145,193,5000,4.5
+TRK 251,Benelli,Italy,2022,250,Adventure,1,160,209,5500,5.0
+Sportster 883,Harley,USA,2022,883,Cruiser,1,255,164,9000,4.0
+Street Glide,Harley,USA,2023,1746,Touring,1,375,201,20000,3.5
+Softail Fat Boy,Harley,USA,2021,1868,Cruiser,1,332,213,18000,4.0
+Iron 1200,Harley,USA,2022,1202,Cruiser,1,256,213,11000,5.0
+Electra Glide,Harley,USA,2023,1868,Touring,1,385,177,24000,3.5
+Breakout,Harley,USA,2021,1868,Cruiser,1,316,204,16000,4.5
+Road King,Harley,USA,2022,1868,Touring,1,375,201,19000,3.5
+Low Rider S,Harley,USA,2023,1868,Cruiser,1,308,204,17000,4.0
+Pan America 1250,Harley,USA,2022,1250,Adventure,1,242,217,19000,4.5
+LiveWire,Harley,USA,2021,373,Cruiser,1,249,177,30000,5.0
+Duke 390,KTM,Austria,2023,373,Naked,1,149,269,6000,7.2
+RC 390,KTM,Austria,2022,373,Sport,1,154,274,7000,7.0
+Adventure 790,KTM,Austria,2021,799,Adventure,1,189,211,11000,6.0
+Super Duke R,KTM,Austria,2022,1301,Naked,1,204,299,18000,8.0
+690 Enduro R,KTM,Austria,2023,690,Off-road,1,147,196,9000,6.5
+125 Duke,KTM,Austria,2021,125,Naked,1,139,129,4000,5.0
+390 Adventure,KTM,Austria,2022,373,Adventure,1,162,250,8000,6.8
+690 SMC R,KTM,Austria,2023,690,Supermoto,1,155,201,10000,6.5
+790 Duke,KTM,Austria,2022,799,Naked,1,169,257,12000,7.5
+1290 Super Adventure R,KTM,Austria,2021,1301,Adventure,1,218,225,20000,6.0
+Interceptor 650,Royal Enfield,India,2022,648,Cruiser,1,202,236,7000,5.5
+Himalayan,Royal Enfield,India,2023,411,Adventure,1,199,140,5000,3.0
+Classic 500,Royal Enfield,India,2021,499,Cruiser,1,194,193,6000,4.5
+Continental GT 650,Royal Enfield,India,2022,648,Cafe Racer,1,198,209,8000,5.0
+Meteor 350,Royal Enfield,India,2023,349,Cruiser,1,170,193,4000,4.0
+Bullet 350,Royal Enfield,India,2021,346,Cruiser,1,175,177,4000,3.5
+Himalayan 650,Royal Enfield,India,2022,648,Adventure,1,203,213,6000,5.0
+Thunderbird X,Royal Enfield,India,2023,346,Cruiser,1,188,177,5000,4.0
+Classic 350,Royal Enfield,India,2022,346,Cruiser,1,180,177,5000,4.0
+Interceptor 350,Royal Enfield,India,2021,346,Cruiser,1,175,177,5000,4.0
